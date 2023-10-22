@@ -10,7 +10,7 @@
 
 Aqui você encontrará soluções para uma variedade de desafios, abrangendo diferentes tópicos e dificuldades. Cada desafio é organizado em seu próprio diretório, contendo os seguintes elementos:
 
-- **Código-Fonte**: O código-fonte da solução em linguagem C#.
+- **Código-Fonte**: O código-fonte da solução.
 
 - **Explicação**: Uma breve explicação do problema e da abordagem utilizada para resolvê-lo.
 
@@ -37,4 +37,4 @@ Eu não irei aceitar pull requests pois, o repositório tem que está condizente
 
 # 📲 Me acompanhe
 
-O link para cada vídeo estará no respectivo README de cada desafio. Se você deseja ver dicas de como crescer profissionalmente e principalmente como pessoa, os links para minhas redes sociais está no [meu perfil](https://github.com/legitimoth) aqui do GitHub.
+O link para cada vídeo estará no respectivo _README_ de cada desafio. Se você deseja ver dicas de como crescer profissionalmente e principalmente como pessoa, os links para minhas redes sociais está no [meu perfil](https://github.com/legitimoth) aqui do GitHub.

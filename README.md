@@ -26,7 +26,13 @@ Você pode explorar este repositório da seguinte forma:
 
 3. Leia a explicação para entender a lógica por trás da solução.
 
-4. Execute o código em seu ambiente de desenvolvimento e experimente diferentes entradas para testar a solução.
+4. Execute o código em seu ambiente de desenvolvimento para testar a solução.
+
+**Para executar navegue ate a pasta do desafio desejado e digite:**
+
+```shell
+dotnet run
+```
 
 ## 🙋🏻 Contribuições
 

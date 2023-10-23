@@ -1,4 +1,4 @@
-# 📝 Desafio HackerRank: Sales by Match
+# 🥋 Desafio HackerRank: Sales by Match
 
 Este repositório contém a solução de um popular desafio de programação do HackerRank, o "Sales by Match," implementado em linguagem `C#`. **O desafio consiste em encontrar o número de pares de meias com cores correspondentes em uma lista.**
 
@@ -12,7 +12,7 @@ Este repositório contém a solução de um popular desafio de programação do 
 
 ---
 
-## 🪢 Problema
+## 📝 Problema
 
 <details>
 <summary>Português (Brasil)</summary>

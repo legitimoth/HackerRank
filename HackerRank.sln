@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interview Preparation Kit", "Interview Preparation Kit", "{BD85AFD4-435D-4C49-A337-EC3948E0B316}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesByMatch", "Interview Preparation Kit\SalesByMatch\SalesByMatch.csproj", "{55D79A87-47A3-42ED-9055-BC7C0BC8325C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D79A87-47A3-42ED-9055-BC7C0BC8325C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D79A87-47A3-42ED-9055-BC7C0BC8325C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D79A87-47A3-42ED-9055-BC7C0BC8325C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D79A87-47A3-42ED-9055-BC7C0BC8325C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55D79A87-47A3-42ED-9055-BC7C0BC8325C} = {BD85AFD4-435D-4C49-A337-EC3948E0B316}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAAFC746-D2F1-42AF-8E5C-19E9C0C2DC70}
+	EndGlobalSection
+EndGlobal

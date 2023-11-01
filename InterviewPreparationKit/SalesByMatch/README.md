@@ -38,11 +38,11 @@ sockMerchant tem os seguintes parâmetros:
 `int n`: número de meias na pilha;
 `int ar[n]`: as cores de cada meia
 
-### Returns
+### Retorno
 
 `int`: o número de pares
 
-### Input Format
+### Formato de Entrada
 
 A primeira linha contém um número inteiro `n`, o número de meias representadas em `ar`.
 A segunda linha contém `n` inteiros separados por espaços, `ar[i]` as cores das meias na pilha.

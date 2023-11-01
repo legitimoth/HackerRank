@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterviewPreparationKit", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesByMatch", "InterviewPreparationKit\SalesByMatch\SalesByMatch.csproj", "{55D79A87-47A3-42ED-9055-BC7C0BC8325C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "InterviewPreparationKit\CountingValleys\CountingValleys.csproj", "{13416CD0-95E2-4DF2-B30A-962CFF6E9F8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{55D79A87-47A3-42ED-9055-BC7C0BC8325C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55D79A87-47A3-42ED-9055-BC7C0BC8325C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55D79A87-47A3-42ED-9055-BC7C0BC8325C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13416CD0-95E2-4DF2-B30A-962CFF6E9F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13416CD0-95E2-4DF2-B30A-962CFF6E9F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13416CD0-95E2-4DF2-B30A-962CFF6E9F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13416CD0-95E2-4DF2-B30A-962CFF6E9F8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{55D79A87-47A3-42ED-9055-BC7C0BC8325C} = {BD85AFD4-435D-4C49-A337-EC3948E0B316}
+		{13416CD0-95E2-4DF2-B30A-962CFF6E9F8E} = {BD85AFD4-435D-4C49-A337-EC3948E0B316}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EAAFC746-D2F1-42AF-8E5C-19E9C0C2DC70}

@@ -8,7 +8,7 @@ Este repositório contém a solução de um popular desafio de programação do 
 
 ## 🎬 Vídeo
 
-[![Solução do Desafio no YouTube](imgs/thumb.png)](https://youtu.be/bRwdQIDX8W4)
+[![Solução do Desafio no YouTube](imgs/sales-by-match.png)](https://youtu.be/bRwdQIDX8W4)
 
 ---
 

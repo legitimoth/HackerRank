@@ -10,7 +10,7 @@ Este repositório contém a solução de um popular desafio de programação do 
 
 ## 🎬 Vídeo
 
-[![Solução do Desafio no YouTube](imgs/repeated-string.png)](https://recording)
+[![Solução do Desafio no YouTube](imgs/repeated-string.png)](https://youtu.be/trtN6PZkV7w)
 
 ## 🇧🇷 Tradução do exercício
 
